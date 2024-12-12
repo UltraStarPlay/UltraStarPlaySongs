@@ -1,0 +1,264 @@
+#VERSION:1.0.0
+#TITLE:The Watercocks
+#ARTIST:Sometimes
+#MP3:Sometimes - The Watercocks [Studio Version].mp3
+#VOCALS:vocals.ogg
+#INSTRUMENTAL:instrumental.ogg
+#BPM:300
+#COVER:Sometimes - The Watercocks [CO].jpg
+#BACKGROUND:Sometimes - The Watercocks [BG].jpg
+#VIDEO:v=GKastfK3IlY
+: 10 138 9 I 
+-
+: 275 48 -4 know 
+: 329 3 9 I 
+: 336 10 -4 know 
+: 349 1 -3 I
+: 352 4 -5 've 
+: 359 8 -6 done 
+: 370 10 -6 wrong 
+: 395 1 9 I 
+: 400 23 -2 didn
+: 426 11 -5 't 
+-
+: 440 22 -8 give 
+: 465 4 -8 you 
+: 488 12 9 my 
+: 519 8 -2 time 
+: 530 1 9 I 
+: 534 11 -3 felt 
+: 548 22 9 like 
+: 582 6 -5 that
+: 591 6 -3 's 
+-
+: 600 2 9 a 
+: 605 19 -6 crime 
+: 630 5 9 I 
+: 643 19 -1 didn
+: 666 9 -4 't 
+: 678 22 -8 give 
+: 703 8 -8 you 
+-
+: 738 1 9 my 
+: 742 26 9 time 
+: 776 15 -1 Time 
+: 794 40 -6 brought 
+: 837 9 -6 me 
+: 849 19 -8 real
+-
+: 871 10 9 iz
+: 884 6 9 a
+: 893 21 -1 tion 
+-
+: 917 9 -1 in 
+: 929 3 -4 a 
+: 935 16 1 bad 
+: 954 1 -1 s
+-
+: 957 5 -1 itu
+: 965 1 13 a
+: 969 10 -1 tion 
+: 1122 6 -6 der
+: 1131 13 -1 stand 
+-
+: 1020 2 -14 And 
+: 1025 34 -1 brought 
+: 1062 7 -6 me 
+: 1072 8 -8 no 
+: 1083 13 -8 latch 
+: 1113 1 9 To 
+: 1116 3 -3 un
+-
+: 1147 9 -2 what
+: 1159 2 -1 's 
+: 1164 2 -2 the 
+: 1177 6 -3 mean
+: 1196 4 -1 of 
+: 1203 5 0 the 
+: 1212 9 1 good 
+: 1224 9 4 life 
+: 1236 8 3 Yeah,
+: 1260 11 4 some
+-
+: 1309 2 9 I 
+: 1315 2 9 can 
+: 1320 7 5 feel 
+: 1330 4 4 the 
+: 1337 1 3 no
+: 1341 1 3 b
+: 1344 7 3 odies 
+: 1354 8 3 around 
+: 1365 2 4 me 
+: 1370 14 4 some
+-
+: 1429 3 9 I 
+: 1438 3 3 can 
+: 1444 15 4 still 
+: 1462 11 4 feel 
+: 1476 7 4 the 
+: 1486 5 3 pain,
+: 1507 8 4 but 
+: 1518 6 1 some
+: 1541 11 9 I 
+-
+: 1561 4 4 just 
+: 1568 11 4 want 
+: 1582 8 7 you 
+: 1593 4 3 to 
+: 1600 4 3 be 
+: 1607 18 4 around 
+: 1628 4 4 me 
+: 1635 5 4 some
+-
+: 1672 7 9 I 
+: 1684 38 4 just 
+: 1725 39 4 want 
+: 1767 5 4 you 
+: 1802 21 9 to 
+-
+: 1857 11 9 stay 
+: 1872 1 9 I 
+: 1875 19 7 know 
+: 1897 3 4 I 
+: 1903 19 4 know 
+: 1925 3 2 I
+: 1931 13 1 've 
+: 1947 20 1 done 
+: 1970 24 -1 wrong 
+-
+: 1997 3 9 I 
+: 2003 19 6 didn
+: 2025 8 4 't 
+: 2036 19 1 give 
+: 2058 13 -1 you 
+: 2074 2 -1 my 
+: 2079 23 -1 time 
+: 2120 2 9 And 
+: 2125 2 9 I 
+: 2132 18 6 felt,
+-
+: 2182 2 9 felt 
+: 2187 19 1 like 
+: 2210 11 -1 that
+: 2237 2 9 's 
+: 2242 2 9 a 
+: 2247 25 6 crime 
+: 2275 2 4 I 
+: 2280 19 1 didn
+: 2302 8 -1 't 
+-
+: 2313 8 -1 real
+: 2336 32 -1 you 
+: 2376 15 6 Time 
+: 2394 40 4 brought 
+: 2437 9 1 me 
+: 2449 19 -1 real
+-
+: 2471 10 -1 iz
+: 2484 6 9 a
+: 2493 21 4 tion 
+-
+: 2517 9 3 in 
+: 2529 3 4 a 
+: 2535 16 1 bad 
+: 2554 1 9 s
+-
+: 2558 5 2 itu
+: 2566 2 1 a
+: 2571 11 -1 tion 
+: 2723 7 3 der
+: 2733 15 3 stand 
+-
+: 2621 1 9 And 
+: 2625 34 4 brought 
+: 2662 7 3 me 
+: 2672 8 1 no 
+: 2683 17 1 latch 
+: 2713 1 9 To 
+: 2716 4 1 un
+-
+: 2751 4 3 what
+: 2758 8 9 's 
+: 2775 4 1 the 
+: 2782 9 3 mean
+: 2806 4 3 of 
+: 2813 7 1 the 
+: 2823 11 -1 good 
+: 2837 11 4 life 
+-
+: 2858 5 4 Yeah,
+: 2872 6 1 some
+: 2894 10 9 I 
+: 2914 1 9 can 
+: 2917 10 4 feel 
+: 2930 8 4 the 
+: 2941 3 3 no
+: 2947 1 6 b
+: 2951 14 6 odies 
+-
+: 2968 18 4 around 
+: 2989 3 -1 me 
+: 2996 5 4 some
+-
+: 3029 3 9 I 
+: 3038 3 4 can 
+: 3044 15 4 still 
+: 3062 11 4 feel 
+: 3076 7 4 the 
+: 3086 4 3 pain,
+: 3108 7 4 but 
+: 3118 6 6 some
+-
+: 3149 4 9 I 
+: 3161 4 4 just 
+: 3168 11 4 want 
+: 3182 8 3 you 
+: 3193 4 3 to 
+: 3200 4 3 be 
+: 3207 18 4 around 
+: 3228 4 4 me 
+: 3235 6 4 some
+-
+: 3268 4 9 I 
+: 3284 5 -1 just 
+: 3292 15 4 want 
+: 3310 9 4 you 
+: 3322 6 4 to 
+: 3331 16 4 stay 
+: 3350 9 4 Some
+-
+: 3380 5 4 I 
+: 3389 7 9 can 
+: 3408 6 3 feel 
+: 3417 9 4 the 
+: 3429 4 3 no
+: 3436 2 3 b
+: 3441 17 3 odies 
+: 3461 21 4 around 
+: 3485 5 4 me 
+: 3493 1 4 some
+-
+: 3529 1 9 I 
+: 3533 6 9 can 
+: 3542 11 4 still 
+: 3556 9 4 feel 
+: 3568 6 4 the 
+: 3577 6 3 pain,
+: 3598 10 4 but 
+: 3611 5 6 some
+-
+: 3652 1 9 I 
+: 3653 9 3 just 
+: 3665 9 4 want 
+: 3677 5 3 you 
+: 3685 4 3 to 
+: 3692 3 3 be 
+: 3698 14 4 around 
+: 3715 4 1 me 
+-
+: 3722 8 4 some
+: 3750 24 9 I 
+: 3777 88 4 just 
+: 3900 93 4 want 
+-
+E

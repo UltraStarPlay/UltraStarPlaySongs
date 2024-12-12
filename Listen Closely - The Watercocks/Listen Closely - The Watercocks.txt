@@ -1,0 +1,379 @@
+#VERSION:1.0.0
+#TITLE:The Watercocks
+#ARTIST:Listen Closely
+#MP3:Listen Closely - The Watercocks.mp3
+#VOCALS:vocals.ogg
+#INSTRUMENTAL:instrumental.ogg
+#BPM:300
+#COVER:Listen Closely - The Watercocks [CO].jpg
+#BACKGROUND:Listen Closely - The Watercocks [BG].jpg
+#VIDEO:v=AKDOmWmEFGc
+: 1103 5 9 L
+-
+: 1111 24 9 isten 
+-
+: 1138 40 9 closely,
+: 1195 1 9 I
+: 1200 12 4 'll 
+: 1215 21 2 tell 
+: 1239 15 2 you 
+-
+: 1282 7 2 What 
+: 1292 1 4 it
+: 1296 2 2 's 
+: 1301 4 2 like 
+-
+: 1326 7 2 What 
+: 1336 2 0 it
+: 1341 2 0 's 
+: 1346 5 -1 all 
+: 1354 9 -1 about 
+: 1366 2 0 in 
+: 1371 6 0 life 
+-
+: 1400 6 2 Did 
+: 1410 1 9 I 
+: 1414 7 0 get 
+: 1424 4 -1 it 
+: 1431 9 0 wrong 
+: 1443 7 9 or 
+: 1453 15 9 right 
+-
+: 1491 3 4 The 
+: 1497 1 4 mo
+: 1509 5 2 when 
+: 1517 3 2 you 
+: 1523 6 0 lose 
+: 1532 5 0 your 
+: 1540 4 -1 friend
+-
+: 1572 4 2 That 
+: 1579 2 1 it 
+: 1584 10 0 feels 
+: 1600 4 7 like 
+: 1607 12 2 nobody 
+: 1622 2 0 is 
+: 1627 5 -1 hold
+: 1645 5 2 you 
+-
+: 1678 3 -3 In 
+: 1698 5 6 his 
+: 1706 26 2 hands 
+: 1785 8 0 I 
+: 1796 4 9 was 
+-
+: 1889 14 6 treat
+: 1920 31 -3 you 
+: 1954 28 -3 the 
+: 1989 3 9 past 
+: 2034 29 3 few 
+: 2066 54 2 years 
+-
+: 2163 7 9 Was 
+: 2176 4 9 just 
+: 2191 1 9 a 
+: 2194 6 2 con
+-
+: 2228 3 -1 of 
+: 2234 4 -1 my 
+: 2241 6 1 own 
+: 2250 14 2 fears 
+-
+: 2288 9 0 There
+: 2300 11 9 's 
+: 2319 2 9 no 
+: 2337 1 9 ex
+: 2344 9 4 for 
+: 2356 11 7 what 
+: 2370 1 14 I 
+: 2374 9 14 did 
+: 2386 16 18 wrong 
+-
+: 2427 1 18 L
+: 2436 16 9 now,
+: 2465 10 2 what
+: 2478 4 0 's 
+: 2485 6 -1 com
+: 2506 8 0 now 
+-
+: 2537 10 9 From 
+: 2550 4 28 my 
+: 2557 18 0 tongue 
+-
+: 2604 7 4 Please 
+: 2614 6 7 don
+: 2623 3 0 't 
+: 2629 9 5 walk 
+: 2641 9 7 away 
+: 2653 12 7 right 
+: 2668 7 7 now 
+-
+: 2749 13 7 Please 
+: 2765 6 7 don
+: 2774 3 4 't 
+: 2780 4 7 let 
+: 2790 2 7 me 
+: 2795 10 7 hang 
+: 2808 17 2 around 
+: 2849 10 0 Please 
+-
+: 2881 4 9 don
+: 2888 5 4 't 
+: 2896 14 7 walk 
+: 2913 14 7 away 
+: 2931 17 7 right 
+: 2951 10 7 now 
+: 2983 10 9 Please 
+-
+: 3023 1 9 don
+: 3025 5 9 't 
+: 3033 9 2 let 
+: 3045 5 0 me 
+: 3053 13 0 hang 
+: 3069 23 0 around 
+-
+: 3115 3 9 Please 
+: 3133 5 9 don
+: 3144 4 9 't 
+: 3158 1 9 let 
+: 3162 1 9 me 
+: 3166 8 9 hang 
+: 3177 1 9 around 
+-
+: 3774 3 4 All 
+: 3780 4 4 the 
+: 3787 9 2 times 
+: 3799 4 0 that 
+: 3807 1 0 I
+: 3810 3 0 've 
+: 3816 6 -1 been 
+: 3825 6 -1 down 
+-
+: 3834 3 -1 on 
+: 3840 3 -1 the 
+: 3847 10 2 ground 
+: 3875 3 9 I 
+: 3884 4 2 left 
+: 3891 9 0 like 
+: 3903 9 -1 give 
+-
+: 3915 3 0 it 
+: 3921 4 -3 up 
+: 3945 9 0 Give 
+: 3957 1 -3 it 
+: 3961 4 -7 up 
+-
+: 3992 17 23 Give 
+: 4012 2 9 it 
+: 4017 10 9 up 
+-
+: 4052 1 9 But 
+: 4056 1 4 I 
+: 4059 3 4 just 
+: 4065 1 9 won
+: 4069 2 7 't 
+: 4074 2 7 let 
+: 4079 2 7 you 
+: 4084 4 7 know 
+: 4103 1 9 I 
+: 4107 7 7 feel 
+: 4117 8 7 sorry 
+-
+: 4147 3 7 So 
+: 4153 16 4 please 
+: 4172 7 16 don
+: 4182 3 4 't 
+: 4188 3 4 go 
+: 4194 11 16 away 
+-
+: 4230 23 12 Please 
+: 4256 10 12 don
+: 4269 6 12 't 
+: 4278 5 12 go 
+: 4286 15 12 away 
+-
+: 4326 15 19 Please 
+: 4344 6 7 don
+: 4354 2 7 't 
+: 4359 9 7 walk 
+: 4371 9 19 away 
+: 4383 10 18 right 
+: 4396 5 9 now 
+-
+: 4446 7 9 Please 
+: 4456 10 4 don
+: 4469 6 7 't 
+: 4478 10 5 let 
+: 4491 5 7 me 
+: 4499 15 7 hang 
+: 4517 24 2 around 
+-
+: 4589 6 9 Please 
+: 4598 10 4 don
+: 4611 6 19 't 
+: 4620 14 7 walk 
+: 4639 14 12 away 
+: 4656 20 19 right 
+: 4679 12 21 now 
+-
+: 4731 12 11 Please 
+: 4746 10 9 don
+: 4759 6 2 't 
+: 4768 8 0 let 
+: 4781 5 7 me 
+: 4789 15 0 hang 
+: 4807 19 0 around 
+-
+: 4879 28 14 Wherever 
+: 4910 1 9 I 
+: 4914 8 9 go 
+-
+: 4948 22 4 Wherever 
+: 4973 5 9 I 
+: 4981 5 9 stay 
+-
+: 5013 13 22 Wherever 
+: 5029 1 19 I 
+: 5032 4 18 find 
+: 5039 2 18 my 
+: 5044 4 2 way 
+: 5066 3 11 As 
+: 5072 9 18 long 
+-
+: 5084 3 2 as 
+: 5090 3 0 my 
+: 5096 12 7 heart 
+: 5111 3 -3 is 
+: 5117 8 0 deep 
+: 5129 3 -3 in
+-
+: 5167 19 4 Wherever 
+: 5189 1 7 I
+: 5192 1 2 'll 
+: 5195 11 9 be 
+-
+: 5228 27 4 Wherever 
+: 5258 2 4 I
+: 5263 8 4 'll 
+: 5274 4 2 see 
+-
+: 5302 11 22 Wherever 
+: 5316 1 3 I
+: 5319 2 18 'll 
+: 5324 3 14 find 
+: 5330 2 9 my 
+: 5335 4 9 way 
+: 5356 3 3 As 
+: 5362 9 18 long 
+-
+: 5374 3 0 as 
+: 5380 3 9 my 
+: 5388 9 -3 heart 
+: 5400 4 1 is 
+: 5407 9 9 deep 
+: 5419 1 0 in
+-
+: 6601 15 0 Please 
+: 6619 7 28 don
+: 6629 2 12 't 
+: 6634 9 12 walk 
+: 6646 9 7 away 
+: 6658 10 2 right 
+: 6671 6 9 now 
+-
+: 6724 4 9 Please 
+: 6731 10 4 don
+: 6744 6 7 't 
+: 6753 10 7 let 
+: 6766 6 7 me 
+: 6775 14 7 hang 
+: 6792 24 2 around 
+-
+: 6856 12 9 Please 
+: 6873 7 5 don
+: 6883 5 19 't 
+: 6891 14 12 walk 
+: 6908 14 12 away 
+: 6925 18 7 right 
+: 6946 11 18 now 
+-
+: 6985 20 25 Please 
+: 7013 9 4 don
+: 7025 5 14 't 
+: 7033 10 2 let 
+: 7046 6 1 me 
+: 7057 12 9 hang 
+: 7072 24 0 around 
+-
+: 7142 1 19 '
+: 7146 14 3 Cause 
+: 7163 23 14 wherever 
+: 7189 1 9 I 
+: 7193 4 9 go 
+-
+: 7223 26 3 Wherever 
+: 7252 1 2 I 
+: 7256 3 2 stay 
+-
+: 7288 10 4 Wherever 
+: 7301 1 19 I
+: 7304 2 15 'll 
+: 7309 4 2 find 
+: 7316 1 11 my 
+: 7319 4 9 way 
+: 7340 3 14 As 
+: 7346 7 3 long 
+-
+: 7356 3 -1 as 
+: 7362 2 9 my 
+: 7367 8 12 heart 
+: 7381 2 9 is 
+: 7386 8 9 deep 
+: 7398 1 9 in
+-
+: 7433 23 4 Wherever 
+: 7459 2 2 I
+: 7464 6 2 'll 
+: 7473 3 0 be 
+-
+: 7504 26 4 Wherever 
+: 7533 2 4 I
+: 7538 8 7 'll 
+: 7549 5 2 see 
+-
+: 7576 8 19 Wherever 
+: 7587 1 19 I
+: 7589 2 3 'll 
+: 7594 2 3 find 
+: 7599 1 2 my 
+: 7602 4 14 way 
+: 7621 3 16 As 
+: 7627 9 2 long 
+-
+: 7639 3 18 as 
+: 7645 3 9 my 
+: 7651 8 0 heart 
+: 7665 4 7 is 
+: 7672 9 0 deep 
+: 7684 3 -3 in
+-
+: 8322 1 4 L
+: 8340 7 2 close 
+: 8350 4 2 me,
+: 8359 1 2 I 
+: 8362 5 4 tell 
+: 8371 5 9 you 
+: 8393 7 2 What 
+: 8403 2 4 it
+: 8408 2 4 's 
+: 8413 3 2 like 
+-
+: 8439 7 2 What 
+: 8449 2 0 it
+: 8454 3 0 's 
+: 8460 5 -1 all 
+: 8468 9 0 about 
+: 8480 2 0 in 
+: 8485 9 0 life
+-
+E
